@@ -1,0 +1,10 @@
+<collection shelf="New Arrivals">
+<addr title="Remote host">
+   <ip>192.168.1.6</ip>
+   <port>10000</port>
+</addr>
+<addr title="Remote host">
+   <ip>192.168.1.6</ip>
+   <port>10010</port>
+</addr>
+</collection>
